@@ -12,3 +12,5 @@ I want to take a course and get a lot of knowledge. There is no work experience 
 ##Skills and code examples: there is nothing yet, but in the near future they will definitely appear
 
 ##Work experience and education: now I am taking courses and getting the necessary knowledge and skills
+
+##English: at the moment I am independently studying English, I strive to get a minimum level of A2
