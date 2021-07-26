@@ -1,1 +1,0 @@
-https://milalfox.github.io/rsschool-cv/cv
